@@ -1,5 +1,6 @@
 
 
+![datascience_image](https://github.com/marceau1/marceau1/assets/26560548/5793190f-d71d-4363-916f-1e124bc840d7)
 
 
 
