@@ -4,11 +4,10 @@
 
 
 
-- 👋 Hi, I’m @marceau1
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science 
+- 👋 Hi, My name is Marceau AUGUSTIN
+- 👀 I’m a Data Analyst
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me augustemarceu@gmail.com
+- 📫 How to reach me augustemarceu@gmail.com/ https://www.linkedin.com/in/marceau-augustin-06b4b985/
 
 <!---
 marceau1/marceau1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
