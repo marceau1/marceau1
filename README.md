@@ -5,7 +5,7 @@
 
 
 - 👋 Hi, My name is Marceau AUGUSTIN
-- 👀 I’m a Data Analyst
+- 👀 I’m a Data Science and Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me augustemarceu@gmail.com/ https://www.linkedin.com/in/marceau-augustin-06b4b985/
 
